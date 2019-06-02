@@ -1,17 +1,15 @@
 ---
 layout: page
-title: about
+title: Charlie Marx
 description: I am an undergraduate student studying computer science and mathematics at Haverford College. I am graduating in May 2020 and applying to graduate programs in machine learning. 
 
 ---
 
 I am an undergraduate student studying computer science and mathematics at Haverford College. I am graduating in May 2020 and applying to graduate programs in machine learning. My work in machine learning at Haverford has largely focused on competitive learning methods and disentangled representations as applied to fairness and interpretability. 
 
-I have spent summers working on fairness in recidivism prediction at Harvard, and monitoring fish populations via sonar and video at the Prince William Sound Science Center in Alaska. Please contact me using the information below with any inquiries into my previous work.
+This summer I will be working on fairness in recidivism prediction at Harvard University with Berk Ustun and Flavio Calmon. I will also be attending the [Summer Cluster on Fairness](https://simons.berkeley.edu/programs/fairness2019) hosted at UC Berkeley's [Simons Institute for the Theory of Computing](https://simons.berkeley.edu/). Ongoing work with Sorelle Friedler at Haverford College focuses on methods for measuring discrimination in black box models at the individual level. 
 
-[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/cmarxCV_05_23_2019.pdf)<br/>
-[github](https://github.com/charliemarx)<br/>
-he/him
+Previously, I have spent summers analyzing the persistence of oil from the devastating 2010 Deepwater Horizon oil spill in the Gulf of Mexico with Helen White. I have also worked with Scott Pegau at the [Prince William Sound Science Center](http://pwssc.org/) in Alaska to monitor fish populations via sonar and video. Please [contact me]({{ site.baseurl }}/pages/about.html#contact) with any inquiries into my previous work.
 
 ---
 

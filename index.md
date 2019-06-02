@@ -1,53 +1,46 @@
 ---
 layout: frontpage
-title: Karl Broman
-description: Karl Broman is Professor in Biostatistics and Medical Informatics at University of Wisconsin - Madison; research in statistical genetics
-keywords: Broman, QTL, R/qtl, quantitative trait loci, statistics, statistical genetics, recombination
+title: Charlie Marx
+description: Charlie Marx is an undergraduate student studying computer science and mathematics at Haverford College graduating in May 2020.
 ---
 
-<div class="navbar">
-  <div class="navbar-inner">
-      <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/broman_cv.pdf">cv</a></li>
-          <li><a href="https://github.com/kbroman">github</a></li>
-          <li><a href="https://kbroman.org/blog">blog</a></li>
-          <li><a href="https://twitter.com/kwbroman">@kwbroman</a></li>
-      </ul>
-  </div>
+<div class="page-header">
+  <h2>{{ page.title }} {% if page.tagline %} <small>{{ page.tagline }}</small>{% endif %}</h2>
 </div>
 
-<table class="wide">
-<tr>
-  <td class="left">
-    <a href="pages/publpics/iplotCorr.html">
-        <img src="assets/publpics/iplotCorr.png" alt="R/qtlcharts example" title="R/qtlcharts example"/>
-    </a>
-  </td>
-  <td class="right">
-    <a href="pages/publpics/mppdiag_fig4.html">
-        <img src="assets/publpics/mppdiag_fig4.png" alt="Broman et
-        al. (2019) Fig 4" title="Broman et al. (2019) Fig 4"/>
-    </a>
-  </td>
-</tr>
-<tr>
-  <td class="left">
-    <a href="pages/publpics/samplemixups_fig7.html">
-        <img src="assets/publpics/samplemixups_fig7.png" alt="Broman et al. (2015) Fig 7" title="Broman et al. (2015) Fig 7"/>
-    </a>
-  </td>
-  <td class="right">
-    <a href="pages/publpics/rqtl2_fig1.html">
-        <img src="assets/publpics/rqtl2_fig1c.png" alt="Broman et al. (2019) Fig 1c" title="Broman et al. (2019) Fig 1c"/>
-    </a>
-  </td>
-</tr>
-</table>
+I am an undergraduate student studying computer science and mathematics at Haverford College. I am graduating in May 2020 and applying to graduate programs in machine learning. My work in machine learning at Haverford has largely focused on competitive learning methods and disentangled representations as applied to fairness and interpretability. 
 
-<div class="navbar">
-  <div class="navbar-inner">
-      <ul class="nav">
-          <li><a href="morefigs.html">more figures</a></li>
-      </ul>
-  </div>
+This summer I will be working on fairness in recidivism prediction at Harvard University with Berk Ustun and Flavio Calmon. I will also be attending the [Summer Cluster on Fairness](https://simons.berkeley.edu/programs/fairness2019) hosted at UC Berkeley's [Simons Institute for the Theory of Computing](https://simons.berkeley.edu/). Ongoing work with Sorelle Friedler at Haverford College focuses on methods for measuring discrimination in black box models at the individual level. 
+
+Previously, I have spent summers using machine learning to identify and analyze oil from the devastating 2010 Deepwater Horizon oil spill in the Gulf of Mexico with Helen White. I have also worked with Scott Pegau at the [Prince William Sound Science Center](http://pwssc.org/) in Alaska to automate the monitoring of fish populations via sonar and video.
+
+---
+
+<div class="container">
+<h4><a name="contact"></a>contact</h4>
+
+    <div class="row-fluid">
+        <div class="span5">
+            Charlie Marx<br/>
+            Departments of Computer Science &amp; Mathematics<br/>
+            Haverford College<br/>
+            370 Lancaster Avenue<br/>
+            Haverford, Pennsylvania 19041<br/>
+            USA<br/><br/>
+
+            <div id="hide_email">
+            Email: <code>cm</code><b>I</b><code>arx</code><b>don't</b><code>@</code><b>want</b><code></code><b>spam!
+            </b><code></code><b>So</b><code></code><b>please</b><code>have</code><b>leave
+            </b><code>rford</code><b>me</b><code>.</code><b>alone</b><code>e</code><b>!</b><code>du</code><br/>
+            Phone: 970-412-2278
+            </div>
+        </div>
+
+        <div class="span2">
+        <a href="../assets/pics/cmarx_small.jpg">
+            <img src="../assets/pics/cmarx_small.jpg"
+                  title="Charlie Marx" alt="Charlie Marx"/></a>
+        </div>
+    </div>
 </div>
+
