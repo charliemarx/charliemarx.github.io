@@ -22,7 +22,7 @@ Previously, I have spent summers using machine learning to identify and analyze 
     <div class="row-fluid">
         <div class="span5">
             Charlie Marx<br/>
-            Departments of Computer Science &amp; Mathematics<br/>
+            Department of Computer Science<br/>
             Haverford College<br/>
             370 Lancaster Avenue<br/>
             Haverford, Pennsylvania 19041<br/>
