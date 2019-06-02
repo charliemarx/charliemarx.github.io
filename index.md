@@ -8,7 +8,7 @@ description: Charlie Marx is an undergraduate student studying computer science 
   <h2>{{ page.title }} {% if page.tagline %} <small>{{ page.tagline }}</small>{% endif %}</h2>
 </div>
 
-I am an undergraduate student studying computer science and mathematics at Haverford College. I am graduating in May 2020 and applying to graduate programs in machine learning. My work at Haverford has largely focused on competitive learning methods and disentangled representations as applied to fairness and interpretability in machine learning. 
+I am an undergraduate student studying computer science and mathematics at Haverford College. I will be graduating in May 2020 and am currently applying to graduate programs in machine learning. My work at Haverford has largely focused on competitive learning methods and disentangled representations as applied to fairness and interpretability in machine learning.
 
 This summer I will be working on fairness in recidivism prediction at Harvard University with Berk Ustun and Flavio Calmon. I will also be attending the [Summer Cluster on Fairness](https://simons.berkeley.edu/programs/fairness2019) hosted at UC Berkeley's [Simons Institute for the Theory of Computing](https://simons.berkeley.edu/). Ongoing work with Sorelle Friedler at Haverford College focuses on methods for measuring discrimination in black box models at the individual level. 
 
