@@ -5,10 +5,16 @@ description: Karl Broman's publications
 ---
 
 
+\Beginsection{Publications}
+\pubItem{Disentangling Influence: Using Disentangled Representations to Audit Model Predictions}{https://arxiv.org/abs/1906.08652}{\textbf{Charles T. Marx}, Richard Lanas Phillips, Sorelle A. Friedler, Carlos Scheidegger, Suresh Venkatasubramanian}{Conference on Neural Information Processing Systems (NeurIPS), \nums{2019} -- In review}
 
-### <a name="book"></a>book
+\pubItem{Examining Inputs of Biogenic and Oil-Derived Hydrocarbons in Surface Waters Following the Deepwater Horizon Oil Spill}{https://pubs.acs.org/doi/abs/10.1021/acsearthspacechem.9b00090}{Helen K. White, \textbf{Charles T. Marx}, David L. Valentine, Charles Sharpless, Christoph Aeppli, Kelsey M. Gosselin, Veronika Kivenson, Rachel M. Liu, Robert K. Nelson, Sean P. Sylva, Christopher M. Reddy}{ACS Earth and Space Chemistry, \nums{2019} -- Accepted}
 
-**Broman KW**, Sen &#346; (2009) A Guide to QTL Mapping with R/qtl.  Springer, New York
+\pubItem{Rapid Identification of Deepwater Horizon Oil Residues Using X-Ray Fluorescence}{https://pubs.acs.org/doi/abs/10.1021/acs.estlett.8b00589?src=recsys}{Anna P. M. Michel, Alexandra E. Morrison, \textbf{Charles T. Marx}, Helen K. White}{Environmental Science \& Technology Letters, \nums{2018} -- Accepted}
+
+## Disentangling Influence: Using Disentangled Representations to Audit Model Predictions
+**Charles T. Marx**, Richard Lanas Phillips, Sorelle A. Friedler, Carlos Scheidegger, Suresh Venkatasubramanian
+**Charles T. Marx**, Sen &#346; (2009) A Guide to QTL Mapping with R/qtl.  Springer, New York
 [![Online complements](icons16/html-icon.png)](http://www.rqtl.org/book)
 [![Amazon](icons16/amazon-icon.png)](https://www.amazon.com/gp/product/0387921249?ie=UTF8&tag=7210-20)
 [![Springer](icons16/springer-icon.png)](http://www.springer.com/978-0-387-92124-2)

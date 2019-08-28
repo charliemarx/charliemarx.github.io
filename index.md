@@ -2,7 +2,7 @@
 layout: frontpage
 title: Charlie Marx
 description: Charlie Marx is an undergraduate student studying computer science and mathematics at Haverford College graduating in May 2020.
-
+---
 
 <div class="page-header">
   <h2>{{ page.title }} {% if page.tagline %} <small>{{ page.tagline }}</small>{% endif %}</h2>
@@ -19,6 +19,7 @@ description: Charlie Marx is an undergraduate student studying computer science 
   </div>
 </div>
 
+---
 
 I am an undergraduate student studying computer science and mathematics at Haverford College. I will be graduating in May 2020 and am currently applying to PhD programs in machine learning. My work at Haverford has largely focused on fairness and interpretability in machine learning. Methods of interest include causal inference, disentangled representations, and competitive learning algorithms.
 
