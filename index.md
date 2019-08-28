@@ -2,7 +2,7 @@
 layout: page
 title: Charlie Marx
 description: Charlie Marx is an undergraduate student studying computer science and mathematics at Haverford College graduating in May 2020.
-
+---
 
 <div class="navbar">
   <div class="navbar-inner">
