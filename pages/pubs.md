@@ -4,7 +4,7 @@ title: publications
 description: Charlie Marx's publications
 ---
 
-#### Predictive Multiplicity In Classification
+#### <a href="{{ BASE_PATH }}/assets/predictive_multiplicity.pdf">Predictive Multiplicity In Classification</a>
 **Charles T. Marx**, Flavio du Pin Calmon, Berk Ustun  
 *In submission*, 2019
 
