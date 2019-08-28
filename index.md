@@ -19,7 +19,6 @@ description: Charlie Marx is an undergraduate student studying computer science 
   </div>
 </div>
 
----
 
 I am an undergraduate student studying computer science and mathematics at Haverford College. I will be graduating in May 2020 and am currently applying to PhD programs in machine learning. My work at Haverford has largely focused on fairness and interpretability in machine learning. Methods of interest include causal inference, disentangled representations, and competitive learning algorithms.
 
@@ -27,7 +26,6 @@ I spent this previous summer working on fairness in recidivism prediction at Har
 
 Previously, I have used machine learning to identify and analyze oil from the 2010 Deepwater Horizon oil spill in the Gulf of Mexico with Helen White. I have also worked with Scott Pegau at the [Prince William Sound Science Center](http://pwssc.org/) in Alaska to automate monitoring of fish populations via sonar and video data.
 
----
 
 <div class="container">
 <h4><a name="contact"></a>contact</h4>
