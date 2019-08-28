@@ -5,6 +5,13 @@ permalink: /:categories/:year/:month/:day/:title
 exclude: [".rvmrc", ".rbenv-version", "ReadMe.md", "Rakefile", "changelog.md", "License.md", "Makefile", "Gemfile", "Gemfile.lock"]
 highlighter: rouge
 
+# Google Analytics
+google_analytics: UA-141291624-1
+
+# search engine optimization
+plugins:
+  - jekyll-seo-tag
+
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #

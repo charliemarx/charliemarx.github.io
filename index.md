@@ -10,7 +10,7 @@ description: Charlie Marx is an undergraduate student studying computer science 
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/cmarx_CV.pdf">CV</a></li>
-          <li><a href="https://github.com/charliemarx">Github</a></li>
+          <li><a href="https://github.com/charliemarx">GitHub</a></li>
           <li><a href="https://www.linkedin.com/in/charles-marx-9b63b3163/">LinkedIn</a></li>
       </ul>
   </div>
