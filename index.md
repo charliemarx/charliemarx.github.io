@@ -21,6 +21,7 @@ I spent this previous summer working on fairness in recidivism prediction at Har
 
 Previously, I have used machine learning to identify and analyze oil from the 2010 Deepwater Horizon oil spill in the Gulf of Mexico with Helen White. I have also worked with Scott Pegau at the [Prince William Sound Science Center](http://pwssc.org/) in Alaska to automate monitoring of fish populations via sonar and video data.
 
+---
 
 <div class="container">
 <h4><a name="contact"></a>contact</h4>
