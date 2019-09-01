@@ -26,7 +26,6 @@ Helen K. White, **Charles T. Marx**, David L. Valentine, Charles Sharpless, Chri
 
 
 #### <a href="{{ BASE_PATH }}/assets/rapid_identification.pdf">Rapid Identification of Deepwater Horizon Oil Residues Using X-Ray Fluorescence </a>
-Examining Inputs of Biogenic and Oil-Derived Hydrocarbons in Surface Waters Following the Deepwater Horizon Oil Spill
 Anna P. M. Michel, Alexandra E. Morrison, **Charles T. Marx**, Helen K. White  
 *Environmental Science & Technology Letters*, 2018
 <br />
