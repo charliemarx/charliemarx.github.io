@@ -1,7 +1,7 @@
 ---
 layout: frontpage
 title: Charlie Marx
-description: Charlie Marx is an undergraduate student studying computer science and mathematics at Haverford College graduating in May 2020.
+description: I work on fairness and interpretability in machine learning. Currently studying computer science and mathematics at Haverford College. 
 ---
 
 # Charlie Marx
@@ -18,11 +18,11 @@ description: Charlie Marx is an undergraduate student studying computer science 
 
 ---
 
-I am an undergraduate student studying computer science and mathematics at Haverford College. I will be graduating in May 2020 and am currently applying to PhD programs in machine learning. My work at Haverford has largely focused on fairness and interpretability in machine learning. Methods of interest include causal inference, disentangled representations, and competitive learning algorithms.
+I work on fairness and interpretability in machine learning. I am currently studying computer science and mathematics at Haverford College, and will be graduating in May 2020.  My work in machine learning at Haverford has largely focused on computational fairness and interpretable machine learning in the environmental sciences. Methods of interest include adversarial learning, disentangled representations and causal inference.
 
-I spent this previous summer working on fairness in recidivism prediction at Harvard University with [Berk Ustun](http://www.berkustun.com/) and [Flavio Calmon](http://people.seas.harvard.edu/~flavio/). I also presented recent work at the [Summer Cluster on Fairness](https://simons.berkeley.edu/programs/fairness2019) hosted at UC Berkeley's [Simons Institute for the Theory of Computing](https://simons.berkeley.edu/). Ongoing work with [Sorelle Friedler](http://sorelle.friedler.net/) at Haverford College focuses on methods for measuring discrimination in black box models. 
+I spent this previous summer working on fairness in recidivism prediction at Harvard University with Berk Ustun and Flavio Calmon. I also spoke at the [Summer Cluster on Fairness](https://simons.berkeley.edu/programs/fairness2019) hosted at UC Berkeley's [Simons Institute for the Theory of Computing](https://simons.berkeley.edu/). Ongoing projects with Sorelle Friedler at Haverford College focuses on indirect influence and representational fairness. 
 
-Previously, I have used machine learning to identify and analyze oil from the 2010 Deepwater Horizon oil spill in the Gulf of Mexico with Helen White. I have also worked with Scott Pegau at the [Prince William Sound Science Center](http://pwssc.org/) in Alaska to automate monitoring of fish populations via sonar and video data.
+Previously, I have analyzed the persistence of oil in marine environments after the devastating 2010 Deepwater Horizon oil spill in the Gulf of Mexico with Helen White. I have also worked with Scott Pegau at the [Prince William Sound Science Center](http://pwssc.org/) in Alaska to monitor fish populations via sonar and video. Please feel free to [contact me]({{ site.baseurl }}/pages/about.html#contact) with any inquiries.
 
 ---
 
