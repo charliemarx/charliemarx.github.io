@@ -7,7 +7,6 @@ description: Charlie Marx's publications
 #### <a href="{{ BASE_PATH }}/assets/disentangling_influence.pdf">Disentangling Influence: Using Disentangled Representations to Audit Model Predictions</a>
 **Charles T. Marx**, Richard Lanas Phillips, Sorelle A. Friedler, Carlos Scheidegger, Suresh Venkatasubramanian  
 *NeurIPS*, 2019
-<a href="{{ BASE_PATH }}/assets/neurips2019_poster.pdf">poster</a>
 <br />
 <br />
 
