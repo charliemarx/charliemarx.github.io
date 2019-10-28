@@ -7,9 +7,15 @@ description: Charlie Marx's publications
 #### <a href="{{ BASE_PATH }}/assets/disentangling_influence.pdf">Disentangling Influence: Using Disentangled Representations to Audit Model Predictions</a>
 **Charles T. Marx**, Richard Lanas Phillips, Sorelle A. Friedler, Carlos Scheidegger, Suresh Venkatasubramanian  
 *NeurIPS*, 2019
+<a href="{{ BASE_PATH }}/assets/neurips2019_poster.pdf">poster</a>
 <br />
 <br />
 
+#### <a href="{{ BASE_PATH }}/assets/predictive_multiplicity_workshop.pdf">On the Multiplicity of Predictions in Classification</a>
+**Charles T. Marx**, Flavio du Pin Calmon, Berk Ustun  
+*HCML Workshop at NeurIPS*, 2019
+<br />
+<br />
 
 #### <a href="{{ BASE_PATH }}/assets/predictive_multiplicity.pdf">Predictive Multiplicity In Classification</a>
 **Charles T. Marx**, Flavio du Pin Calmon, Berk Ustun  
