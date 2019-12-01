@@ -31,7 +31,7 @@ Helen K. White, **Charles T. Marx**, David L. Valentine, Charles Sharpless, Chri
 
 #### <a href="https://ieeexplore.ieee.org/abstract/document/8867289">Comparison of Laboratory Analytical Techniques for the Rapid Identification of Marine Plastics </a>
 Anna P. M. Michel, Alexandra Morrison, Beckett Colson, **Charles T. Marx**,  Helen K. White 
-*OCEANS*, 2019
+<br /> *OCEANS*, 2019
 <br />
 <br />
 
