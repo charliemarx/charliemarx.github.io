@@ -30,9 +30,10 @@ Helen K. White, **Charles T. Marx**, David L. Valentine, Charles Sharpless, Chri
 <br />
 
 
-#### <a href="{{ BASE_PATH }}/assets/rapid_identification.pdf">Rapid Identification of Deepwater Horizon Oil Residues Using X-Ray Fluorescence </a>
-Anna P. M. Michel, Alexandra E. Morrison, **Charles T. Marx**, Helen K. White  
-*Environmental Science & Technology Letters*, 2018
+#### <a href="https://ieeexplore.ieee.org/abstract/document/8867289">Comparison of Laboratory Analytical Techniques for the Rapid Identification of Marine Plastics </a>
+Anna P. M. Michel, Alexandra Morrison, Beckett Colson, **Charles T. Marx**,  Helen K. White 
+*OCEANS*, 2019
 <br />
 <br />
+
 
