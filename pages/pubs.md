@@ -10,18 +10,19 @@ description: Charlie Marx's publications
 <br />
 <br />
 
-#### <a href="{{ BASE_PATH }}/assets/predictive_multiplicity_workshop.pdf">On the Multiplicity of Predictions in Classification</a>
+#### <a href="{{ BASE_PATH }}/assets/predictive_multiplicity.pdf">Predictive Multiplicity In Classification</a>
 **Charles T. Marx**, Flavio du Pin Calmon, Berk Ustun  
-*HCML Workshop at NeurIPS*, 2019
+*NeurIPS HCML Workshop*, 2019
 <br />
 <br />
 
+<!--
 #### <a href="{{ BASE_PATH }}/assets/predictive_multiplicity.pdf">Predictive Multiplicity In Classification</a>
 **Charles T. Marx**, Flavio du Pin Calmon, Berk Ustun  
 *In submission*, 2019
 <br />
 <br />
-
+-->
 
 #### <a href="{{ BASE_PATH }}/assets/examining_hydrocarbons.pdf">Examining Inputs of Biogenic and Oil-Derived Hydrocarbons in Surface Waters Following the Deepwater Horizon Oil Spill</a>
 Helen K. White, **Charles T. Marx**, David L. Valentine, Charles Sharpless, Christoph Aeppli, Kelsey M. Gosselin, Veronika Kivenson, Rachel M. Liu, Robert K. Nelson, Sean P. Sylva, Christopher M. Reddy  
