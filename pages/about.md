@@ -11,6 +11,10 @@ I spent this previous summer working on fairness in recidivism prediction at Har
 
 Previously, I have analyzed the persistence of oil in marine environments after the devastating 2010 Deepwater Horizon oil spill in the Gulf of Mexico with Helen White. I have also worked with Scott Pegau at the [Prince William Sound Science Center](http://pwssc.org/) in Alaska to monitor fish populations via sonar and video. Please feel free to [contact me]({{ site.baseurl }}/pages/about.html#contact) with any inquiries.
 
+#### News 
+- I was selected as a Runner-Up for the <a href="https://cra.org/about/awards/outstanding-undergraduate-researcher-award/">CRA Outstanding Undergraduate Researcher Award</a>
+- At NeurIPS 2019, I presented our work on Disentangling Influence 
+- At NeurIPS 2019, I presented our work on Predictive Multiplicity at the Human-Centric Machine Learning Workshop
 ---
 
 <div class="container">
