@@ -21,7 +21,7 @@ description: I work on fairness and interpretability in machine learning. Curren
 #### News 
 - I was selected as a Runner-Up for the [CRA Outstanding Undergraduate Researcher Award](https://cra.org/about/awards/outstanding-undergraduate-researcher-award)
 - At NeurIPS 2019, I presented our work on <a href="{{ BASE_PATH }}/assets/disentangling_influence.pdf">Disentangling Influence</a> 
-- At NeurIPS 2019, I presented our work on <a href="{{ BASE_PATH }}/assets/predictive_multiplicity.pdf">Predictive Multiplicity</a> at the Human-Centric Machine Learning Workshop
+- At NeurIPS 2019, I presented our work on <a href="{{ BASE_PATH }}/assets/predictive_multiplicity.pdf">Predictive Multiplicity</a> at the [HCML Workshop](https://sites.google.com/view/hcml-2019)
 
 I am currently studying computer science and mathematics at Haverford College, and will be graduating in May 2020.  My work in machine learning at Haverford has largely focused on computational fairness and interpretable machine learning. My current research interests include adversarial learning, disentangled representations, graphical models and causal inference.
 
@@ -33,7 +33,7 @@ Previously, I have analyzed the persistence of oil in marine environments after 
 
 
 <div class="container">
-<h4><a name="contact"></a>contact</h4>
+<h4><a name="contact"></a>Contact</h4>
 
     <div class="row-fluid">
         <div class="span5">
