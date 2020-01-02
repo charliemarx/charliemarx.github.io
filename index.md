@@ -18,11 +18,16 @@ description: I work on fairness and interpretability in machine learning. Curren
 
 ---
 
+#### News 
+- I was selected as a Runner-Up for the [CRA Outstanding Undergraduate Researcher Award](https://cra.org/about/awards/outstanding-undergraduate-researcher-award)
+- At NeurIPS 2019, I presented our work on <a href="{{ BASE_PATH }}/assets/disentangling_influence.pdf">Disentangling Influence</a> 
+- At NeurIPS 2019, I presented our work on <a href="{{ BASE_PATH }}/assets/predictive_multiplicity.pdf">Predictive Multiplicity</a> at the Human-Centric Machine Learning Workshop
+
 I am currently studying computer science and mathematics at Haverford College, and will be graduating in May 2020.  My work in machine learning at Haverford has largely focused on computational fairness and interpretable machine learning. My current research interests include adversarial learning, disentangled representations, graphical models and causal inference.
 
-I spent this previous summer working on fairness in recidivism prediction at Harvard University with Berk Ustun and Flavio Calmon. I also spoke at the [Summer Cluster on Fairness](https://simons.berkeley.edu/programs/fairness2019) hosted at UC Berkeley's [Simons Institute for the Theory of Computing](https://simons.berkeley.edu/). Ongoing projects with Sorelle Friedler at Haverford College focus on indirect influence and representational fairness. 
+I spent this previous summer working on fairness in recidivism prediction at Harvard University with Professor [Flavio Calmon](http://people.seas.harvard.edu/~flavio/). I also spoke at the [Summer Cluster on Fairness](https://simons.berkeley.edu/programs/fairness2019) hosted at UC Berkeley's [Simons Institute for the Theory of Computing](https://simons.berkeley.edu/). Ongoing projects with Professor [Sorelle Friedler](http://sorelle.friedler.net/) at Haverford College focus on indirect influence and representational fairness. 
 
-Previously, I have analyzed the persistence of oil in marine environments after the 2010 Deepwater Horizon oil spill in the Gulf of Mexico with Helen White. I also worked with Scott Pegau at the [Prince William Sound Science Center](http://pwssc.org/) in Alaska to monitor fish populations via sonar and video using machine learning. Please feel free to [contact me]({{ site.baseurl }}/pages/about.html#contact) with any inquiries.
+Previously, I have analyzed the persistence of oil in marine environments after the 2010 Deepwater Horizon oil spill in the Gulf of Mexico with Professor Helen White. I also worked with Scott Pegau at the [Prince William Sound Science Center](http://pwssc.org/) in Alaska to monitor fish populations via sonar and video data using machine learning. Please feel free to [contact me]({{ site.baseurl }}/pages/about.html#contact) with any inquiries.
 
 ---
 
