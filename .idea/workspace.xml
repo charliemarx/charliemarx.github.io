@@ -3,7 +3,46 @@
   <component name="ChangeListManager">
     <list default="true" id="f6553290-0437-4956-9773-08d12a17efe6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/author-profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/author-profile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/footer/custom.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer/custom.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/about/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/archive-layout-with-content/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/archive-layout-with-content/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/categories/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/collection-archive/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/collection-archive/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/cv/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/cv/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/markdown.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/markdown.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/markdown/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/markdown/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/markdown_generator/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/markdown_generator/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/md/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/md/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/nmp.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/nmp.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/nmp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/nmp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/non-menu-page/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/non-menu-page/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/page-archive/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/page-archive/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/portfolio/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/portfolio/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/publications/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/publications/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/redirects.json" beforeDir="false" afterPath="$PROJECT_DIR$/_site/redirects.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/resume.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_site/robots.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/sitemap/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/sitemap/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tags/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/talkmap.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/talkmap.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/talks/2012-03-01-talk-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/talks/2012-03-01-talk-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/talks/2013-03-01-tutorial-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/talks/2013-03-01-tutorial-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/talks/2014-02-01-talk-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/talks/2014-02-01-talk-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/talks/2014-03-01-talk-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/talks/2014-03-01-talk-3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/talks/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/talks/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/teaching/2014-spring-teaching-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/teaching/2014-spring-teaching-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/teaching/2015-spring-teaching-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/teaching/2015-spring-teaching-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/teaching/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/teaching/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/terms/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/terms/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/wordpress/blog-posts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/wordpress/blog-posts/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/year-archive/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/year-archive/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
