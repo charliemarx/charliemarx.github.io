@@ -4,6 +4,52 @@
     <list default="true" id="f6464dd4-6c17-4a06-9ed7-e78f4eb29d03" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/archive-layout-with-content.md" beforeDir="false" afterPath="$PROJECT_DIR$/excluded_pages/archive-layout-with-content.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/category-archive.html" beforeDir="false" afterPath="$PROJECT_DIR$/excluded_pages/category-archive.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/collection-archive.html" beforeDir="false" afterPath="$PROJECT_DIR$/excluded_pages/collection-archive.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/contact.md" beforeDir="false" afterPath="$PROJECT_DIR$/excluded_pages/contact.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/cv.md" beforeDir="false" afterPath="$PROJECT_DIR$/excluded_pages/cv.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/markdown.md" beforeDir="false" afterPath="$PROJECT_DIR$/excluded_pages/markdown.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/non-menu-page.md" beforeDir="false" afterPath="$PROJECT_DIR$/excluded_pages/non-menu-page.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/page-archive.html" beforeDir="false" afterPath="$PROJECT_DIR$/excluded_pages/page-archive.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/excluded_pages/portfolio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/tag-archive.html" beforeDir="false" afterPath="$PROJECT_DIR$/excluded_pages/tag-archive.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/talkmap.html" beforeDir="false" afterPath="$PROJECT_DIR$/excluded_pages/talkmap.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/talks.html" beforeDir="false" afterPath="$PROJECT_DIR$/excluded_pages/talks.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/teaching.html" beforeDir="false" afterPath="$PROJECT_DIR$/excluded_pages/teaching.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/terms.md" beforeDir="false" afterPath="$PROJECT_DIR$/excluded_pages/terms.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/year-archive.html" beforeDir="false" afterPath="$PROJECT_DIR$/excluded_pages/year-archive.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/archive-layout-with-content/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/archive-layout-with-content/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/categories/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/collection-archive/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/collection-archive/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/cv/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/cv/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/markdown/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/markdown/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/markdown_generator/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/markdown_generator/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/page-archive/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/page-archive/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/portfolio/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/portfolio/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/publications/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/publications/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/sitemap/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/sitemap/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tags/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/talkmap.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/talkmap.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/talks/2012-03-01-talk-1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/talks/2013-03-01-tutorial-1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/talks/2014-02-01-talk-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/talks/2014-03-01-talk-3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/talks/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/talks/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/teaching/2014-spring-teaching-1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/teaching/2015-spring-teaching-1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/teaching/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/teaching/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/terms/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/terms/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/year-archive/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/year-archive/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_talks/2012-03-01-talk-1.md" beforeDir="false" afterPath="$PROJECT_DIR$/excluded_pages/_talks/2012-03-01-talk-1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_talks/2013-03-01-tutorial-1.md" beforeDir="false" afterPath="$PROJECT_DIR$/excluded_pages/_talks/2013-03-01-tutorial-1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_talks/2014-02-01-talk-2.md" beforeDir="false" afterPath="$PROJECT_DIR$/excluded_pages/_talks/2014-02-01-talk-2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_talks/2014-03-01-talk-3.md" beforeDir="false" afterPath="$PROJECT_DIR$/excluded_pages/_talks/2014-03-01-talk-3.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_teaching/2014-spring-teaching-1.md" beforeDir="false" afterPath="$PROJECT_DIR$/excluded_pages/_teaching/2014-spring-teaching-1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_teaching/2015-spring-teaching-2.md" beforeDir="false" afterPath="$PROJECT_DIR$/excluded_pages/_teaching/2015-spring-teaching-2.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,6 +61,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1bhBBuEG5keqTxScTndQyN3pIve" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/excluded_pages" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -45,7 +96,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
