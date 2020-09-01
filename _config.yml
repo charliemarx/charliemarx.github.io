@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Charlie Marx"
-  avatar           : "cmarx_small.jpg"
+  avatar           : "cmarx_square.jpg"
   bio              : "PhD student in Computer Science at Stanford. \n \n Email: [ctmarx@stanford.edu](mailto:ctmarx@stanford.edu)"
   location         : "Palo Alto, CA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=LCiFW3IAAAAJ&hl=en&oi=ao"
-  email            :  # "ctmarx@stanford.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : # "ctmarx@stanford.edu"
+  researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
