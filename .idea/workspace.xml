@@ -3,24 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f6464dd4-6c17-4a06-9ed7-e78f4eb29d03" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/markdown_generator/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/markdown_generator/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/publications/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/publications/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/sitemap/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/sitemap/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cmarx_new_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cmarx_new_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cmarx_new_2-min.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cmarx_new_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cmarx_new_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cmarx_new_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cmarx_new_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cmarx_new_4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cmarx_new_4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cmarx_new_5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cmarx_new_6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cmarx_small.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
