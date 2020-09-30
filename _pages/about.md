@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hi! I'm a Ph.D. student in Computer Science at Stanford University where I am a member of the [Stanford Artificial Intelligence Laboratory](https://ai.stanford.edu/). I am interested in robustness, fairness, and interpretability in machine learning.
+Hi! I'm a Ph.D. student in Computer Science at Stanford and a member of the [Stanford Artificial Intelligence Laboratory](https://ai.stanford.edu/). I am interested in robustness, fairness, and interpretability in machine learning.
 
 Previously, I received simultaneous degrees in Mathematics and Computer Science at Haverford College, where I was advised by Professor [Sorelle Friedler](http://sorelle.friedler.net/) on fairness in machine learning. I also spent time at Harvard University, where I studied the multiplicity of prediction models with Professor [Flavio Calmon](http://people.seas.harvard.edu/~flavio/) and [Berk Ustun](https://www.berkustun.com/).
 Before that, I had the good fortune to spend time in Alaska working with Professor [Helen White](https://www.haverford.edu/users/hwhite) to develop machine learning tools to study marine oil spills. 
