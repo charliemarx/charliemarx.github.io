@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hi! I am a second-year PhD student in Computer Science at Stanford University, where I'm affiliated with the [Stanford AI Lab](https://ai.stanford.edu/) and advised by [Stefano Ermon](https://cs.stanford.edu/~ermon/). I am fortunate to be supported by an [NSF GRFP Fellowship](https://www.nsfgrfp.org/). 
+Hi! I am a second-year PhD student in Computer Science at Stanford University, where I'm affiliated with the [Stanford AI Lab](https://ai.stanford.edu/) and advised by [Stefano Ermon](https://cs.stanford.edu/~ermon/). I am fortunate to be supported by an [NSF GRFP Fellowship](https://www.nsfgrfp.org/). I like to think about decision-making under uncertainty, and particularly how to make uncertainty estimates trustworthy and actionable. I also spend time thinking about generative modeling and fairness in machine learning. Please feel free to reach out if you're interested in any of these areas!
 
 Previously, I studied Mathematics and Computer Science at Haverford College, where I worked with [Sorelle Friedler](http://sorelle.friedler.net/) on fairness in machine learning. I also spent time at Harvard University, where I studied uncertainty in machine learning with [Flavio Calmon](http://people.seas.harvard.edu/~flavio/) and [Berk Ustun](https://www.berkustun.com/).
 Before that, I had the good fortune to spend a summer in Alaska working with [Helen White](https://www.haverford.edu/users/hwhite) to develop machine learning tools to study marine oil spills. 
