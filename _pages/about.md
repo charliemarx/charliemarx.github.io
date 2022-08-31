@@ -10,7 +10,6 @@ redirect_from:
 
 
 I am a third-year PhD student in Computer Science at Stanford University, where I'm affiliated with the [Stanford AI Lab](https://ai.stanford.edu/) and advised by [Stefano Ermon](https://cs.stanford.edu/~ermon/). 
-
 My goal is to develop trustworthy machine learning systems that improve human decision making. 
 Recently, I have been working to make uncertainty estimates in machine learning actionable and reliable. I also spend time thinking about diffusion models, robustness, and fairness in machine learning. Please feel free to reach out if you're interested in any of these areas!
 
