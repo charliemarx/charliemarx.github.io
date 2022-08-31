@@ -10,5 +10,5 @@ codelink: 'https://github.com/TorchUQ/torchuq'
 whitenote: '*Equal contribution'
 ---
 
-**Charles T. Marx***, Shengjia Zhao*, Willie Neiswanger, Stefano Ermon
+**Charles T. Marx**\* , Shengjia Zhao\*, Willie Neiswanger, Stefano Ermon
 
