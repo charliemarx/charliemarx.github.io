@@ -10,6 +10,6 @@ codelink: 'https://github.com/charliemarx/disentangling-influence'
 
 ---
 
-**Charles T. Marx**, Richard Lanas Phillips, Sorelle A. Friedler, Carlos Scheidegger, Suresh Venkatasubramanian
+**Charles Marx**, Richard Lanas Phillips, Sorelle A. Friedler, Carlos Scheidegger, Suresh Venkatasubramanian
 
 

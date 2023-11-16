@@ -11,5 +11,5 @@ codelink: 'https://github.com/charliemarx/pmtools'
 rednote: Selected for Oral Presentation at 2019 NeurIPS Workshop for Human-Centric ML
 ---
 
-**Charles T. Marx**, Flavio du Pin Calmon, Berk Ustun
+**Charles Marx**, Flavio du Pin Calmon, Berk Ustun
 
