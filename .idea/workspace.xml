@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6464dd4-6c17-4a06-9ed7-e78f4eb29d03" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_publications/2024_online_calibration.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_publications/2019_disentangling_influence.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/2019_disentangling_influence.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_publications/2019_examining_inputs_deepwater" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/2019_examining_inputs_deepwater" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_publications/2020_predictive_multiplicity.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/2020_predictive_multiplicity.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_publications/2022_modular_conformal_calibration.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/2022_modular_conformal_calibration.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_publications/rapid_identification_deepwater" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/rapid_identification_deepwater" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,9 +29,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="1bhBBuEG5keqTxScTndQyN3pIve" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -43,6 +40,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "WebServerToolWindowFactoryState": "true",
+    "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -71,7 +69,9 @@
       <workItem from="1617771852616" duration="2390000" />
       <workItem from="1658955389849" duration="1639000" />
       <workItem from="1661562727470" duration="1401000" />
-      <workItem from="1700159742413" duration="5181000" />
+      <workItem from="1700159742413" duration="5805000" />
+      <workItem from="1700260054661" duration="598000" />
+      <workItem from="1727990832852" duration="388000" />
     </task>
     <servers />
   </component>
