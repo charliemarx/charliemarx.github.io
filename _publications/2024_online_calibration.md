@@ -4,7 +4,6 @@ collection: publications
 permalink: /publication/2024-OnlineCalibration
 date: 2024-09-27
 paperurl: 'files/online_calibration.pdf'
-venue: NeurIPS
 arxiv: 'https://arxiv.org/abs/2409.19157'
 
 ---
