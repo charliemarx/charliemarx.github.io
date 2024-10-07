@@ -7,7 +7,7 @@ paperurl: 'files/kernel_calibration.pdf'
 venue: NeurIPS
 arxiv: 'https://arxiv.org/abs/2310.20211'
 # codelink: 'https://github.com/TorchUQ/torchuq'
-whitenote: '*Equal contribution'
+# whitenote: '*Equal contribution'
 ---
 
 **Charles Marx**\*, Sofian Zalouk\*, Stefano Ermon

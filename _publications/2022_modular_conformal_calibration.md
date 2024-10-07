@@ -7,7 +7,7 @@ paperurl: 'files/modular_conformal_calibration.pdf'
 venue: ICML
 arxiv: 'https://arxiv.org/abs/2206.11468'
 codelink: 'https://github.com/TorchUQ/torchuq'
-whitenote: '*Equal contribution'
+# whitenote: '*Equal contribution'
 ---
 
 **Charles Marx**\* , Shengjia Zhao\*, Willie Neiswanger, Stefano Ermon
