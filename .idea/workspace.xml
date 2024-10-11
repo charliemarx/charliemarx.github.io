@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f6464dd4-6c17-4a06-9ed7-e78f4eb29d03" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_publications/2022_modular_conformal_calibration.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/2022_modular_conformal_calibration.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_publications/2023_kernel_calibration.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/2023_kernel_calibration.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +70,7 @@
       <workItem from="1700159742413" duration="5805000" />
       <workItem from="1700260054661" duration="598000" />
       <workItem from="1727990832852" duration="1355000" />
-      <workItem from="1728337222655" duration="1954000" />
+      <workItem from="1728337222655" duration="2563000" />
     </task>
     <servers />
   </component>
