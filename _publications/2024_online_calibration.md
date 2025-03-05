@@ -2,9 +2,9 @@
 title: "Calibrated Probabilistic Forecasts for Arbitrary Sequences"
 collection: publications
 permalink: /publication/2024-OnlineCalibration
-date: 2024-09-27
+date: 2025-03-01
 paperurl: 'files/online_calibration.pdf'
-venue: Preprint
+venue: TMLR
 arxiv: 'https://arxiv.org/abs/2409.19157'
 
 ---
