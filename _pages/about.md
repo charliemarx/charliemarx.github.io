@@ -18,15 +18,15 @@ I am fortunate to be supported by an [NSF GRFP Fellowship](https://www.nsfgrfp.o
 
 ## Selected Publications
 
-**[Calibrated Probabilistic Forecasts for Arbitrary Sequences](/files/online_calibration.pdf)**
+**Calibrated Probabilistic Forecasts for Arbitrary Sequences**  
 **Charles Marx**, Volodymyr Kuleshov, Stefano Ermon  
-TMLR, 2025 | [pdf](/files/online_calibration.pdf) | [arxiv](https://arxiv.org/abs/2409.19157)
+TMLR, 2025 | [arxiv](https://arxiv.org/abs/2409.19157)
 
-**[Calibration by Distribution Matching: Trainable Kernel Calibration Metrics](/files/kernel_calibration.pdf)**
+**Calibration by Distribution Matching: Trainable Kernel Calibration Metrics**  
 **Charles Marx**\*, Sofian Zalouk\*, Stefano Ermon  
-NeurIPS, 2023 | [pdf](/files/kernel_calibration.pdf) | [arxiv](https://arxiv.org/abs/2310.20211)
+NeurIPS, 2023 | [arxiv](https://arxiv.org/abs/2310.20211)
 
-**[Predictive Multiplicity in Classification](/files/predictive_multiplicity.pdf)**
+**Predictive Multiplicity in Classification**  
 **Charles Marx**, Flavio du Pin Calmon, Berk Ustun  
-ICML, 2020 | [pdf](/files/predictive_multiplicity.pdf) | [arxiv](https://arxiv.org/abs/1909.06677) | [code](https://github.com/charliemarx/pmtools)  
+ICML, 2020 | [arxiv](https://arxiv.org/abs/1909.06677) 
 
