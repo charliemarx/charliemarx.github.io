@@ -19,18 +19,14 @@ I am fortunate to be supported by an [NSF GRFP Fellowship](https://www.nsfgrfp.o
 ## Selected Publications
 
 **[Calibrated Probabilistic Forecasts for Arbitrary Sequences](/files/online_calibration.pdf)**
-
 **Charles Marx**, Volodymyr Kuleshov, Stefano Ermon  
 TMLR, 2025 | [pdf](/files/online_calibration.pdf) | [arxiv](https://arxiv.org/abs/2409.19157)
 
 **[Calibration by Distribution Matching: Trainable Kernel Calibration Metrics](/files/kernel_calibration.pdf)**
-
 **Charles Marx**\*, Sofian Zalouk\*, Stefano Ermon  
 NeurIPS, 2023 | [pdf](/files/kernel_calibration.pdf) | [arxiv](https://arxiv.org/abs/2310.20211)
 
 **[Predictive Multiplicity in Classification](/files/predictive_multiplicity.pdf)**
-
 **Charles Marx**, Flavio du Pin Calmon, Berk Ustun  
 ICML, 2020 | [pdf](/files/predictive_multiplicity.pdf) | [arxiv](https://arxiv.org/abs/1909.06677) | [code](https://github.com/charliemarx/pmtools)  
-*Selected for Oral Presentation at 2019 NeurIPS Workshop for Human-Centric ML*
 
