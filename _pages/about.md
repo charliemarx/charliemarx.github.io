@@ -18,34 +18,19 @@ I am fortunate to be supported by an [NSF GRFP Fellowship](https://www.nsfgrfp.o
 
 ## Selected Publications
 
-<div style="margin-bottom: 2em;">
-  <h3 class="archive__item-title" itemprop="headline">
-    <a href="/files/online_calibration.pdf">Calibrated Probabilistic Forecasts for Arbitrary Sequences</a>
-  </h3>
-  <p class="archive__item-excerpt" itemprop="description">
-    <strong>Charles Marx</strong>, Volodymyr Kuleshov, Stefano Ermon
-    <br><nobr>TMLR, 2025 | <a href="/files/online_calibration.pdf">pdf</a> | <a href="https://arxiv.org/abs/2409.19157">arxiv</a></nobr>
-  </p>
-</div>
+**[Calibrated Probabilistic Forecasts for Arbitrary Sequences](/files/online_calibration.pdf)**
 
-<div style="margin-bottom: 2em;">
-  <h3 class="archive__item-title" itemprop="headline">
-    <a href="/files/kernel_calibration.pdf">Calibration by Distribution Matching: Trainable Kernel Calibration Metrics</a>
-  </h3>
-  <p class="archive__item-excerpt" itemprop="description">
-    <strong>Charles Marx</strong>*, Sofian Zalouk*, Stefano Ermon
-    <br><nobr>NeurIPS, 2023 | <a href="/files/kernel_calibration.pdf">pdf</a> | <a href="https://arxiv.org/abs/2310.20211">arxiv</a></nobr>
-  </p>
-</div>
+**Charles Marx**, Volodymyr Kuleshov, Stefano Ermon  
+TMLR, 2025 | [pdf](/files/online_calibration.pdf) | [arxiv](https://arxiv.org/abs/2409.19157)
 
-<div style="margin-bottom: 2em;">
-  <h3 class="archive__item-title" itemprop="headline">
-    <a href="/files/predictive_multiplicity.pdf">Predictive Multiplicity in Classification</a>
-  </h3>
-  <p class="archive__item-excerpt" itemprop="description">
-    <strong>Charles Marx</strong>, Flavio du Pin Calmon, Berk Ustun
-    <br><nobr>ICML, 2020 | <a href="/files/predictive_multiplicity.pdf">pdf</a> | <a href="https://arxiv.org/abs/1909.06677">arxiv</a> | <a href="https://github.com/charliemarx/pmtools">code</a></nobr>
-    <br><span style="color:red">Selected for Oral Presentation at 2019 NeurIPS Workshop for Human-Centric ML</span>
-  </p>
-</div>
+**[Calibration by Distribution Matching: Trainable Kernel Calibration Metrics](/files/kernel_calibration.pdf)**
+
+**Charles Marx**\*, Sofian Zalouk\*, Stefano Ermon  
+NeurIPS, 2023 | [pdf](/files/kernel_calibration.pdf) | [arxiv](https://arxiv.org/abs/2310.20211)
+
+**[Predictive Multiplicity in Classification](/files/predictive_multiplicity.pdf)**
+
+**Charles Marx**, Flavio du Pin Calmon, Berk Ustun  
+ICML, 2020 | [pdf](/files/predictive_multiplicity.pdf) | [arxiv](https://arxiv.org/abs/1909.06677) | [code](https://github.com/charliemarx/pmtools)  
+*Selected for Oral Presentation at 2019 NeurIPS Workshop for Human-Centric ML*
 
