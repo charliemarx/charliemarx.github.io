@@ -18,36 +18,34 @@ I am fortunate to be supported by an [NSF GRFP Fellowship](https://www.nsfgrfp.o
 
 ## Selected Publications
 
-{% assign sorted_pubs = site.publications | sort: "date" | reverse %}
-{% for post in sorted_pubs %}
-  {% if post.title == "Calibrated Probabilistic Forecasts for Arbitrary Sequences" or post.title == "Calibration by Distribution Matching: Trainable Kernel Calibration Metrics" or post.title == "Predictive Multiplicity in Classification" %}
-  <div style="margin-bottom: 2em;">
-    <h3 class="archive__item-title" itemprop="headline">
-      <a href="/{{ post.paperurl }}">{{ post.title }}</a>
-    </h3>
-    <p>
-      {{ post.content | markdownify }}
-    </p>
-    <p class="archive__item-excerpt" itemprop="description">
-      {% if post.excerpt and post.excerpt != "" %}{{ post.excerpt | markdownify }} {% endif %}
-      <nobr>{{ post.venue }}, {{ post.date | default: "1900-01-01" | date: "%Y" }}
-      {% if post.paperurl %}
-       | <a href="/{{ post.paperurl }}">pdf</a>
-      {% endif %}
-      {% if post.arxiv %}
-      | <a href="{{ post.arxiv }}">arxiv</a>
-      {% endif %}
-      {% if post.codelink %}
-      | <a href="{{ post.codelink }}">code</a>
-      {% endif %}</nobr>
-      {% if post.rednote %}
-      <br><span style="color:red">{{ post.rednote }}</span>
-      {% endif %}
-      {% if post.whitenote %}
-      <br><span>{{ post.whitenote }}</span>
-      {% endif %}
-    </p>
-  </div>
-  {% endif %}
-{% endfor %}
+<div style="margin-bottom: 2em;">
+  <h3 class="archive__item-title" itemprop="headline">
+    <a href="/files/online_calibration.pdf">Calibrated Probabilistic Forecasts for Arbitrary Sequences</a>
+  </h3>
+  <p class="archive__item-excerpt" itemprop="description">
+    <strong>Charles Marx</strong>, Volodymyr Kuleshov, Stefano Ermon
+    <br><nobr>TMLR, 2025 | <a href="/files/online_calibration.pdf">pdf</a> | <a href="https://arxiv.org/abs/2409.19157">arxiv</a></nobr>
+  </p>
+</div>
+
+<div style="margin-bottom: 2em;">
+  <h3 class="archive__item-title" itemprop="headline">
+    <a href="/files/kernel_calibration.pdf">Calibration by Distribution Matching: Trainable Kernel Calibration Metrics</a>
+  </h3>
+  <p class="archive__item-excerpt" itemprop="description">
+    <strong>Charles Marx</strong>*, Sofian Zalouk*, Stefano Ermon
+    <br><nobr>NeurIPS, 2023 | <a href="/files/kernel_calibration.pdf">pdf</a> | <a href="https://arxiv.org/abs/2310.20211">arxiv</a></nobr>
+  </p>
+</div>
+
+<div style="margin-bottom: 2em;">
+  <h3 class="archive__item-title" itemprop="headline">
+    <a href="/files/predictive_multiplicity.pdf">Predictive Multiplicity in Classification</a>
+  </h3>
+  <p class="archive__item-excerpt" itemprop="description">
+    <strong>Charles Marx</strong>, Flavio du Pin Calmon, Berk Ustun
+    <br><nobr>ICML, 2020 | <a href="/files/predictive_multiplicity.pdf">pdf</a> | <a href="https://arxiv.org/abs/1909.06677">arxiv</a> | <a href="https://github.com/charliemarx/pmtools">code</a></nobr>
+    <br><span style="color:red">Selected for Oral Presentation at 2019 NeurIPS Workshop for Human-Centric ML</span>
+  </p>
+</div>
 
