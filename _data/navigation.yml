@@ -4,12 +4,6 @@ main:
   - title: "About"
     url: /
 
-  - title: "Publications"
-    url: /publications/
-    
-  - title: "CV"
-    url: /files/cmarx_CV.pdf
-
 # UNCOMMENT TO ADD CONTACT PAGE
  # - title: "Contact"
  #   url: /contact/
