@@ -1,1 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="10" fill="#111"/><text x="32" y="43" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="30" font-weight="700" fill="#ff6b6b" text-anchor="middle">&gt;_</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="14" fill="#1b1f24"/><g fill="#e8eaed">
+<rect x="14" y="14" width="8" height="8" rx="1.5" opacity=".95"/>
+<rect x="14" y="23" width="8" height="8" rx="1.5" opacity=".45"/><rect x="23" y="23" width="8" height="8" rx="1.5" opacity=".9"/>
+<rect x="14" y="32" width="8" height="8" rx="1.5" opacity=".25"/><rect x="23" y="32" width="8" height="8" rx="1.5" opacity=".6"/><rect x="32" y="32" width="8" height="8" rx="1.5" opacity=".85"/>
+<rect x="14" y="41" width="8" height="8" rx="1.5" opacity=".2"/><rect x="23" y="41" width="8" height="8" rx="1.5" opacity=".35"/><rect x="32" y="41" width="8" height="8" rx="1.5" opacity=".55"/></g><rect x="41" y="41" width="8" height="8" rx="1.5" fill="#6f93cc"/></svg>
