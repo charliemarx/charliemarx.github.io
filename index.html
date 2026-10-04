@@ -6,7 +6,12 @@
   <title>Charlie Marx</title>
   <meta name="description" content="Charlie Marx is a researcher at SpaceXAI working on pretraining.">
   <link rel="canonical" href="https://charliemarx.com/">
-  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <meta name="color-scheme" content="light">
+  <meta name="theme-color" content="#ffffff">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="icon" href="/favicon-32.png" type="image/png" sizes="32x32">
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+  <link rel="preload" href="/fonts/source-serif-4-400.woff2" as="font" type="font/woff2" crossorigin>
   <meta property="og:title" content="Charlie Marx">
   <meta property="og:description" content="Researcher at SpaceXAI working on pretraining.">
   <meta property="og:image" content="https://charliemarx.com/photo.jpg">
@@ -21,19 +26,17 @@
     gtag('config', 'G-91KXX5WDJ6');
   </script>
   <style>
+    @font-face { font-family: "Source Serif 4"; font-weight: 400; font-display: swap; src: url("/fonts/source-serif-4-400.woff2") format("woff2"); }
+    @font-face { font-family: "Source Serif 4"; font-weight: 600; font-display: swap; src: url("/fonts/source-serif-4-600.woff2") format("woff2"); }
+    @font-face { font-family: "IBM Plex Mono"; font-weight: 400; font-display: swap; src: url("/fonts/ibm-plex-mono-400.woff2") format("woff2"); }
+    @font-face { font-family: "IBM Plex Mono"; font-weight: 500; font-display: swap; src: url("/fonts/ibm-plex-mono-500.woff2") format("woff2"); }
     :root {
       --bg: #ffffff;
       --text: #111111;
       --muted: #777777;
-      --accent: #dd1144;
-    }
-    @media (prefers-color-scheme: dark) {
-      :root {
-        --bg: #0d0d0d;
-        --text: #e6e6e6;
-        --muted: #8a8a8a;
-        --accent: #ff6b6b;
-      }
+      --accent: #3b5b8c;
+      --serif: "Source Serif 4", Georgia, serif;
+      --mono: "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
     }
     * { box-sizing: border-box; }
     html { -webkit-text-size-adjust: 100%; }
@@ -41,14 +44,14 @@
       margin: 0;
       background: var(--bg);
       color: var(--text);
-      font: 15px/1.7 ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;
+      font: 18px/1.6 var(--serif);
     }
     main {
       max-width: 680px;
       margin: 0 auto;
       padding: 72px 22px 64px;
     }
-    a { color: var(--text); text-decoration: none; border-bottom: 1px solid var(--muted); }
+    a { color: var(--text); text-decoration: none; border-bottom: 1px solid var(--accent); }
     a:hover { color: var(--accent); border-color: var(--accent); }
     header {
       display: flex;
@@ -63,8 +66,7 @@
       border-radius: 4px;
       flex-shrink: 0;
     }
-    h1 { margin: 0 0 4px; font-size: 18px; }
-    h1::before { content: "> "; color: var(--accent); }
+    h1 { margin: 0 0 4px; font-size: 26px; font-weight: 600; line-height: 1.2; letter-spacing: -0.01em; }
     .links {
       margin: 0;
       padding: 0;
@@ -72,21 +74,22 @@
       display: flex;
       flex-wrap: wrap;
       gap: 2px 14px;
-      font-size: 14px;
+      font: 14px/1.7 var(--mono);
     }
     .links a { border: 0; }
-    .links a::before { content: "["; color: var(--muted); }
-    .links a::after { content: "]"; color: var(--muted); }
-    h2 { margin: 44px 0 14px; font-size: 15px; }
-    h2::before { content: "## "; color: var(--muted); }
+    .links a::before { content: "["; color: var(--accent); }
+    .links a::after { content: "]"; color: var(--accent); }
+    h2 { margin: 44px 0 14px; font: 500 14px/1.4 var(--mono); color: var(--accent); }
     .papers { margin: 0; padding: 0; list-style: none; }
     .papers li { margin-bottom: 16px; }
     .title a { border: 0; }
-    .meta { color: var(--muted); font-size: 13px; }
-    .more { font-size: 14px; color: var(--muted); }
+    .meta { color: var(--muted); font: 13px/1.7 var(--mono); }
+    .more { color: var(--muted); font: 14px/1.7 var(--mono); }
     @media (max-width: 480px) {
       main { padding-top: 44px; }
-      body { font-size: 14px; }
+      body { font-size: 17px; }
+      header { gap: 16px; }
+      .links { gap: 2px 10px; font-size: 13px; }
     }
   </style>
 </head>
